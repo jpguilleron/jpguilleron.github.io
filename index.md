@@ -1,6 +1,8 @@
 # Page personnelle de Jean-Philippe GUILLERON
 
-Bla bla
+Je m'appelle Jean-Philippe GUILLERON. Ancien élève de l'Ecole Normale Supérieure 
 
-- [Poly théorie des ensembles](files/Ensembles_applications.pdf)
+Thèse 
+
+
 - [Poly théorie des ensembles](files/Ensembles_applications.pdf)
